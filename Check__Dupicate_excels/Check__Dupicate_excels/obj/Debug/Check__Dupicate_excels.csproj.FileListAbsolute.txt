@@ -1,0 +1,36 @@
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\Check__Dupicate_excels.exe
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\Check__Dupicate_excels.pdb
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ExcelDataReader.dll
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.csprojAssemblyReference.cache
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.Form1.resources
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.Properties.Resources.resources
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.csproj.GenerateResource.cache
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.csproj.CoreCompileInputs.cache
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.csproj.CopyComplete
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.exe
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.pdb
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\Check__Dupicate_excels.exe.config
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ExcelDataReader.xml
+C:\Users\withawat.bun\Desktop\Check _Dupicate_excel\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ExcelDataReader.DataSet.xml
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\Check__Dupicate_excels.exe.config
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\Check__Dupicate_excels.exe.manifest
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\Check__Dupicate_excels.application
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\Check__Dupicate_excels.exe
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\Check__Dupicate_excels.pdb
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ExcelDataReader.DataSet.dll
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ExcelDataReader.dll
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ExcelDataReader.xml
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\bin\Debug\ExcelDataReader.DataSet.xml
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.Comparable_Excel.resources
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.Properties.Resources.resources
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.csproj.GenerateResource.cache
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.csproj.CoreCompileInputs.cache
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.exe.manifest
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.application
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.csproj.CopyComplete
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.exe
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.pdb
+D:\GitCodecommit\Windows_APP\Check__Dupicate_excels\Check__Dupicate_excels\obj\Debug\Check__Dupicate_excels.csprojAssemblyReference.cache
